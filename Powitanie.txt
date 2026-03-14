@@ -1,0 +1,2 @@
+Witaj użytkowniku!
+To jest nowa funkcja projektu.
